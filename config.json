@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderptringify",
+        "uuid": 3630550,
+        "checksum": "h82ejl"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
